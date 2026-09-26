@@ -1,12 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://peddles.xyz"><img src="peddles-banner.png" alt="Peddles" width="720"></a>
+</p>
 
-<!--
+<h3 align="center">Multi Chain Stock Pairs Launchpad</h3>
 
-**Here are some ideas to get you started:**
+<p align="center">
+  Launch a token paired to a tokenised stock, and trade it.
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center">
+  <a href="https://peddles.xyz">peddles.xyz</a> ·
+  <a href="https://terminal.peddles.xyz">Terminal</a> ·
+  <a href="https://docs.peddles.xyz">Docs</a> ·
+  <a href="https://x.com/PeddlesX">X</a> ·
+  <a href="https://t.me/peddlesnews">Telegram</a>
+</p>
